@@ -8,3 +8,12 @@
 
 ## Levantar proyecto
 >  npm run dev
+
+### notas :
+>  Para la creación de componentes y react debe predominar el formato, ejemplo camel case (getElementById, getElementsByTagNameNS, createCDATASection).
+
+Código case para crear un componente  
+
+> export default class Layout extends React.Component{
+>
+> }
