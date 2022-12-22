@@ -21,7 +21,7 @@
   "homepage": "https://github.com/daguigonz/platzy-podcasts#readme",
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
-    "next": "^9.2.2",
+    "next": "^9.5.5",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   }
